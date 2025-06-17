@@ -20,7 +20,7 @@ A web app that:
 ## Setup Instructions
 
 1. Clone the repo:
-      git clone https://github.com/SNilesh2/InsightZentra.git
+      git clone https://github.com/Rajithra-R/InsightZentra.git
 
 2. Install Python dependencies:
      pip install -r requirements.txt
