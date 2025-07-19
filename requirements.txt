@@ -1,8 +1,8 @@
-pip install flask langchain-groq langchain-community transformers faiss-cpu python-dotenv
-pip install sentence-transformers
-pip install deep-translator
-pip install gTTS
-pip install fpdf
-pip install python-docx
-pip install PyPDF2
-pip install -U langchain-huggingface
+flask langchain-groq langchain-community transformers faiss-cpu python-dotenv
+sentence-transformers
+deep-translator
+gTTS
+fpdf
+python-docx
+PyPDF2
+-U langchain-huggingface
