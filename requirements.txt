@@ -10,3 +10,4 @@ gTTS
 fpdf
 python-docx
 PyPDF2
+gunicorn
