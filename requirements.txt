@@ -10,4 +10,3 @@ gTTS
 fpdf
 python-docx
 PyPDF2
--U langchain-huggingface
