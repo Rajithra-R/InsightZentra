@@ -1,4 +1,9 @@
-flask langchain-groq langchain-community transformers faiss-cpu python-dotenv
+flask 
+langchain-groq 
+langchain-community 
+transformers 
+faiss-cpu 
+python-dotenv
 sentence-transformers
 deep-translator
 gTTS
